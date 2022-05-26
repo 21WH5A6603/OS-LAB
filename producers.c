@@ -47,5 +47,17 @@ case 3:exit(0);
 }
 }
 
+output:
+
+
+1-producers
+2-consumers
+3-exit
+enter your choice 1
+producers produces the items 1
+enter your choice 2
+consumers consumes items 1
+enter your choice 3
+
 
 
